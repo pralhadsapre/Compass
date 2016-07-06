@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="compass_image_desc">Compass Pointer Image</string>
+    <string name="photo_capture_desc">Capture Photo</string>
+    <string name="title_activity_photo_capture">PhotoCaptureActivity</string>
+    <string name="captured_photo_desc">This is your captured photo</string>
+
+    <string-array name="places_india">
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+        <item>Madhya Pradesh</item>
+        <item>Mizoram</item>
+        <item>Gandhinagar</item>
+        <item>Gurgaon</item>
+        <item>Ahmedabad</item>
+        <item>Assam</item>
+        <item>Arunachal Pradesh</item>
+    </string-array>
+</resources>

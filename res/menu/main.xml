@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tcssamples.androiddemo.MainActivity" >
+
+    <item
+        android:id="@+id/searchItem"
+        android:actionLayout="@layout/search_prompt"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="ifRoom|collapseActionView"/>
+
+</menu> 
